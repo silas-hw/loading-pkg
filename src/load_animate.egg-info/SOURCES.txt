@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/load_animate.egg-info/PKG-INFO
+src/load_animate.egg-info/SOURCES.txt
+src/load_animate.egg-info/dependency_links.txt
+src/load_animate.egg-info/top_level.txt
+src/loading/__init__.py
+src/loading/loading.py
