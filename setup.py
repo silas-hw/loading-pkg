@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="load-anim",
-    version="1.0.0",
+    version="1.0.1",
     author="Silas Hayes-Williams",
     author_email="silas.hayes.williams@gmail.com",
     description="Displays cool loading animations to the terminal",
