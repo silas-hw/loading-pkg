@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="load-anim",
+    name="load_anim",
     version="1.0.1",
     author="Silas Hayes-Williams",
     author_email="silas.hayes.williams@gmail.com",
