@@ -11,7 +11,7 @@ this package doesn't require a vast amount of explaining to learn how to use it.
 python script:
 
 ```python
-from load_animate import Loading
+from loadanim.loadanim import Loading
 
 if __name__ == '__main__':
     load = Loading() #creates a load instance
