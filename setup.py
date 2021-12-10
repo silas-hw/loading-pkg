@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="load_animate",
+name="loadanim",
     version="1.0.1",
     author="Silas Hayes-Williams",
     author_email="silas.hayes.williams@gmail.com",
