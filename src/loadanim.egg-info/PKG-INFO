@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: loadanim
-Version: 1.0.3
+Version: 1.0.4
 Summary: Displays cool loading animations to the terminal
 Home-page: https://github.com/silas-hw/loading-pkg
 Author: Silas Hayes-Williams
@@ -28,7 +28,7 @@ this package doesn't require a vast amount of explaining to learn how to use it.
 python script:
 
 ```python
-from load_animate import Loading
+from loadanim.loadanim import Loading
 
 if __name__ == '__main__':
     load = Loading() #creates a load instance
